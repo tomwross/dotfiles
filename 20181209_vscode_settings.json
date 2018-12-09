@@ -1,0 +1,35 @@
+{
+    "workbench.colorTheme": "Better Solarized Dark",
+
+    // shrinks the entire UI and fonts
+    "window.zoomLevel": -1,
+
+    // sets the font size to a readable font
+    "editor.fontSize": 13,
+
+    // Enable/Disable ActiveFileInStatusBar
+    "ActiveFileInStatusBar.enable": true,
+    // Show fullpath or relative path in status bar.
+    "ActiveFileInStatusBar.fullpath": true,
+    // Reveal the active file in the file system.
+    "ActiveFileInStatusBar.revealFile": true,
+    // "ActiveFileInStatusBar.color": "grey",
+
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Fira Code",
+    "terminal.integrated.fontFamily": "Droid Sans Mono Awesome",
+    "editor.fontLigatures": true,
+    "editor.cursorStyle": "block",
+    "editor.rulers": [
+        79, 119
+    ],
+    "search.location": "panel",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "materialTheme.autoApplyIcons": false,
+    "terminal.integrated.rendererType": "dom",
+    "materialTheme.fixIconsRunning": false,
+    "python.jediEnabled": false,
+
+}
