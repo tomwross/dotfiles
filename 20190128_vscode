@@ -1,0 +1,37 @@
+{
+  "window.zoomLevel": -1,
+  "terminal.integrated.fontFamily": "'SourceCodePro+Powerline+Awesome Regular'",
+  // Enable/Disable ActiveFileInStatusBar
+  "ActiveFileInStatusBar.enable": true,
+  // Show fullpath or relative path in status bar.
+  "ActiveFileInStatusBar.fullpath": true,
+  // Reveal the active file in the file system.
+  "ActiveFileInStatusBar.revealFile": true,
+  "ActiveFileInStatusBar.color": "white",
+  "workbench.colorTheme": "Braver's Solarized Dark (themed workbench)",
+  "[python]": {
+    "editor.tabSize": 4
+  },
+  "[javascript]": {
+    "editor.tabSize": 2
+  },
+  "[jsx]": {
+    "editor.tabSize": 2
+  },
+  "[javascriptreact]": {
+    "editor.tabSize": 2
+  },
+  "[javascript]": {
+    "prettier.tabWidth": 2
+  },
+  "[javascriptreact]": {
+    "prettier.tabWidth": 2
+  },
+  "editor.formatOnSave": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+    // "javascript": "javascriptreact"
+  },
+  "[plsql]": {}
+}
